@@ -13,7 +13,8 @@ A bot that plays Shipping Manager for you by automatically departing your ships.
 1. Download this repo (green button that says code + download zip. Extract the zip)
 2. Open a terminal in the folder you downloaded and extracted (right click + open terminal in file explorer)
 3. Install dependencies: `pip install -r requirements.txt`
-4. run the bot: `python bot.py`
+4. Make sure steam is open and running on your computer. (Don't have shipping manager running, however.)
+5. run the bot: `python bot.py`
 
 # Disclaimer
 
