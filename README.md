@@ -3,7 +3,7 @@ A bot that plays Shipping Manager for you by automatically departing your ships.
 
 # Requirements
 1. Windows (Sorry Linux/SteamOS users, port coming eventually?)
-2. Python - [Download here]([url](https://www.python.org/downloads/))
+2. Python - [Download here]((https://www.python.org/downloads/))
 3. Steam - [Download here]([url](https://store.steampowered.com/about/))
 4. Shipping Manager installed via Steam - [Steam store page]([url](https://store.steampowered.com/app/2445660/Shipping_Manager/))
 5. A Shipping Manager account and game set up and running (obviously)
